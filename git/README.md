@@ -1,1 +1,1 @@
-This is the README.md file inside the git directory
+This directory contains tasks and exercises

@@ -1,1 +1,1 @@
-This is the root README.md file for the alu-zero_day repo
+This repository contains tasks and exercises for learning git and github
